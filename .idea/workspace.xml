@@ -28,6 +28,26 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="HelloKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="HelloKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.HelloKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -55,5 +75,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="126" key="CommitChangelistDialog2" timestamp="1589017253264">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="434" y="126" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1589017253264" />
+    <state x="168" y="94" key="DiffContextDialog" timestamp="1589017248368">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="168" y="94" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1589017248368" />
+    <state width="1638" height="448" key="GridCell.Tab.0.bottom" timestamp="1589017263615">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="448" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589017263615" />
+    <state width="1638" height="448" key="GridCell.Tab.0.center" timestamp="1589017263612">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="448" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589017263612" />
+    <state width="1638" height="448" key="GridCell.Tab.0.left" timestamp="1589017263611">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="448" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589017263611" />
+    <state width="1638" height="448" key="GridCell.Tab.0.right" timestamp="1589017263613">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="448" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589017263613" />
   </component>
 </project>
